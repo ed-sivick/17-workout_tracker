@@ -23,9 +23,10 @@ ___
    
 _____
 ## Usage
-A consumer will reach their fitness goals more quickly when they track their workout progress.   
+A consumer will reach their fitness goals more quickly when they track the progress of their workouts.   
 
-This App allows users to track their workout(s) progress by inputting their resistance and cardio data into the associated fields.  They can track their progress to reach desired fitness goals.   
+This App allows users to track the progress of their workouts by entering the exercise resistance and cardio data into the associated fields.  They can then track their progress to reach desired fitness goals. 
+  
 The user has the ability to:   
 * Add exercises to a previous workout plan.
 * Add new exercises to a new workout plan.

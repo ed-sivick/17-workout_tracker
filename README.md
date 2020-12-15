@@ -13,18 +13,18 @@ ___
 * [Application_Links_and_Images](#application_links_and_images)
 ## User_Story:
  As a user, I want to be able to view, create, and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.  
-  
- A consumer will reach their fitness goals more quickly when they track their workout progress.
 ___
 ## Installation
 (1) Go to the `server.js` file, right-click, open in integrated terminal, and type: **npm i** (install) to install all required dependencies for the app   
 (2) Invoke the app by typing: **node server.js**    
-(3) App is running on localhost:3000   
+(3) App is running on **localhost:3000**   
 (4) Go to Google Chrome, and type URL: **localhost:3000**   
 (5) The app is now running and the user can create a **New Workout**, **Continue Workout**, or view previous workouts by clicking on **Dashboard** on the left side of the navbar.  
    
 _____
 ## Usage
+A consumer will reach their fitness goals more quickly when they track their workout progress.   
+
 This App allows users to track their workout(s) progress by inputting their resistance and cardio data into the associated fields.  They can track their progress to reach desired fitness goals.   
 The user has the ability to:   
 * Add exercises to a previous workout plan.

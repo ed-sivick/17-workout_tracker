@@ -3,10 +3,13 @@ let db = require("../models");
 
 // Required for Heroku
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout",
-    { useNewUrlParser: true }
-  )
-  .then(() => console.log("MongoDB successfully connected"))
-  .catch(err => console.log(err));
+{
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+  useCreateIndex: true,
+  useFindAndModify: false
+}
+);
 
 let workoutSeed = [
   {

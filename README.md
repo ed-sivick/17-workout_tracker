@@ -26,7 +26,7 @@ _____
 A consumer will reach their fitness goals more quickly when they track the progress of their workouts.   
 
 This App allows users to track the progress of their workouts by entering the exercise resistance and cardio data into the associated fields.  They can then track their progress to reach desired fitness goals. 
-  
+
 The user has the ability to:   
 * Add exercises to a previous workout plan.
 * Add new exercises to a new workout plan.
@@ -52,7 +52,7 @@ _____
 ___
 ## Application_Links_and_Images  
 **Links:**  
-Heroku link: (https://placeholder)   
+Heroku link: (https://whispering-headland-52819.herokuapp.com/)   
 
 **Application Image Examples:** 
 <p><strong>Image of Fitness Tracker screen to select an exercise type</strong></p>

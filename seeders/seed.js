@@ -1,6 +1,7 @@
 let mongoose = require("mongoose");
 let db = require("../models");
 
+// Required for Heroku deployment
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout",
   {
     useNewUrlParser: true,

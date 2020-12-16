@@ -33,7 +33,7 @@ The user has the ability to:
 * View the combined weight of multiple exercises on the `Dashboard` page.
 _____
 ## Contributing
-ed-sivick, Stack Overflow, Grepper, BCS support for functionality, code syntax, and Heroku deployment instruction
+ed-sivick, Stack Overflow, Grepper, Katheryn at AskBCS Learning Assistant for functionality, code syntax, and Heroku deployment instruction
 _____
 ## Questions
 If there are any questions, or if you would prefer more information concerning this app,

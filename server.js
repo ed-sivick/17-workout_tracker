@@ -1,4 +1,3 @@
-// Dependencies
 const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
@@ -12,6 +11,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));
 
+// Required for Heroku deployment
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout",
   {
     useNewUrlParser: true,

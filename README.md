@@ -1,4 +1,4 @@
-# 17-Workout_Tracker
+# 17-Workout Tracker
 ___
 ## Objective
 Create a workout tracker with the provided front end code using a Mongo database with a Mongoose schema, and handle routes with Express.
